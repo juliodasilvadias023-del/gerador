@@ -1,0 +1,6 @@
+sondmusic-api/
+├── main.py
+├── requirements.txt
+├── Procfile
+├── scripts_auxiliares/
+├── arquivos_audio/
